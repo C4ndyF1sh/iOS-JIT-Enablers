@@ -12,7 +12,7 @@ A list of JIT Enablers for iOS and iPadOS.
  | 14.2 - 18.3.2 / 18.4b2 - 18.5 | [Xcode](https://apps.apple.com/de/app/xcode/id497799835?l=en-GB&mt=12) | MacOS | arm64✅,arm64e✅ | ❌ (Requires an active Xcode Project but doesn't need to be the same one as the app)
  | ??? - 18.3.2 / 18.4b2 - 18.5 | [Guide](https://youtu.be/1LHTr3QZVwQ?si=esiE19BqI-aV7G49) + [UTM SE](https://apps.apple.com/de/app/utm-se-retro-pc-emulator/id1564628856?l=en-GB) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ | ❌
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [app** JIT](https://www.youtube.com/watch?v=xvFZjo5PgG0) | MacOS | amr64🤷‍♂️,arm64e✅ | ❌
- | 17.0 - 17.3.1 - ??? | [SideJITServer](https://github.com/stossy11/SideJITServer) | Windows/MacOS | arm64🤷‍♂️,arm64e✅ | ✅ (if on 17.0.1 - 17.3.1, otherwise no)
+ | 17.0 - 18.3.2 / 18.4b2 - 18.5 | [SideJITServer](https://github.com/stossy11/SideJITServer) | Windows/MacOS | arm64🤷‍♂️,arm64e✅ | ✅ (if on 17.0.1 - 17.3.1, otherwise no)
  | 17.0 - ??? | [iOS17-JIT-WIN](https://github.com/fritzlb/iOS17-JIT-WIN) | Windows | arm64🤷‍♂️,arm64e✅ | ❌
  | 17.0b1 - 17.0 | [TrollStore](https://ios.cfw.guide/installing-trollstore/) | iOS/iPadOS | arm64✅,arm64e✅ | ✅
  | 14.0 - 16.7.x | [SideStore](https://sidestore.io) | iOS/iPadOS | arm64✅,arm64e✅ | ✅ (if on 16.7.x, otherwise no)
