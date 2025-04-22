@@ -14,12 +14,11 @@ A list of JIT Enablers for iOS and iPadOS.
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [app** JIT](https://www.youtube.com/watch?v=xvFZjo5PgG0) | MacOS | amr64🤷‍♂️,arm64e✅ | ❌
  | 17.0 - 18.3.2 / 18.4b2 - 18.5 | [SideJITServer](https://github.com/stossy11/SideJITServer) | Windows/MacOS | arm64🤷‍♂️,arm64e✅ | ✅ (if on 17.0.1 - 17.3.1, otherwise no)
  | 17.0 - ??? | [iOS17-JIT-WIN](https://github.com/fritzlb/iOS17-JIT-WIN) | Windows | arm64🤷‍♂️,arm64e✅ | ❌
- | 17.0b1 - 17.0 | [TrollStore](https://ios.cfw.guide/installing-trollstore/) | iOS/iPadOS | arm64✅,arm64e✅ | ✅
+ | 14.0b2 - 16.7RC (20H18) / 17.0b1 - 17.0 | [TrollStore](https://ios.cfw.guide/installing-trollstore/) | iOS/iPadOS | arm64✅,arm64e✅ | ✅
  | 14.0 - 16.7.x | [SideStore](https://sidestore.io) | iOS/iPadOS | arm64✅,arm64e✅ | ✅ (if on 16.7.x, otherwise no)
  | ??? - 16.7.x | [Jitterbug](https://github.com/osy/Jitterbug) | iOS/iPadOS (requires a 2nd iDevice) | arm64🤷‍♂️,arm64e✅ | ❌ 
  | ??? - 16.7.x | [JITStreamer](https://github.com/jkcoxson/JitStreamer) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ | ❌ 
  | 14.0 - 16.7.x | [AltServer](https://altstore.io) | Windows/MacOS | arm64✅,arm64e✅ | ❌
- | 14.0b2 - 16.7RC (20H18) | [TrollStore](https://ios.cfw.guide/installing-trollstore/) | iOS/iPadOS | arm64✅,arm64e✅ | ✅
  | 14.0 - 15.7.1 / 16.0 - 16.1.2 | [DirtyJIT](https://github.com/haxi0/DirtyJIT) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ | ❌
  | 12.0 - 16.5(.1)/16.6b1-b4 (arm64 devices can be jailbroken even on iOS 11 and lower) | [Jailbreak (Not all Jailbreaks support JIT enabling)](https://ios.cfw.guide/get-started/) | iOS/iPadOS | arm64✅,arm64e✅ | ✅
  |↪️ 16.6 - 18.3.2 | [Jailbreak](https://ios.cfw.guide/get-started/) + [TrollStore Lite (search for it in Sileo/Zebra once jailbroken)](https://havoc.app/package/trollstorelite?srsltid=AfmBOorVtTrW_VvOq42bb8zsG4CeTtGi3VmoEmaAnFgiTEnWqeqfdLZs) | iOS/iPadOS | arm64✅,arm64e❌ |✅ (you can use normal TrollStore instead if you are on 14.0b2 - 16.7RC/17.0b1 - 17.0 if you dont want to jailbreak for some reason)
