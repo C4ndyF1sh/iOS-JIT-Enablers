@@ -1,8 +1,12 @@
 # iOS-JIT-Enablers
 A list of JIT Enablers for iOS and iPadOS.
+-------------------------------------
+# What is "JIT" ?
+JIT means "Just-In-Time Compilation", it makes emulators (which support JIT) run better/run at all or has other use cases in tools such as [LiveContainer](https://github.com/LiveContainer/LiveContainer) to launch iOS apps faster (by not having to sign them first with SideStore) which are installed into it. 
 
+Read more [here](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+-------------------------------------
 **arm64 = A7-A11 | arm64e = A12+/M1+**
-
  | Supported OS Versions | JIT Enabler | OS for JIT Enabler | Supported SoC architecture | TestFlight available | Recommended | Shortcuts to make JIT enabling faster | Dylibs to make JIT enabling faster | More |
  |---------|---------|--------|-------|-------|-------|------|------|------|
  | 18.4b1 (22E5200s) | [JankJIT](https://gist.github.com/JJTech0130/142aee0f7bda9c61a421140d17afbdeb) | Likely MacOS-only | arm64🤷‍♂️,arm64e✅ |No| 🤷‍♂ |No|No|
@@ -24,8 +28,3 @@ A list of JIT Enablers for iOS and iPadOS.
  | 14.0 - 16.7.x | [AltServer](https://altstore.io) | Windows/MacOS | arm64✅,arm64e✅ |No| ❌ |No|No|
  | 14.0 - 15.7.1 / 16.0 - 16.1.2 | [DirtyJIT](https://github.com/haxi0/DirtyJIT) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌ |No|No|
  | 16.5(.1)/16.6b1-b4 and lower for arm64e but for arm64 even 16.6 - 18.3.2 | for arm64e: [Jailbreak](https://ios.cfw.guide/get-started/) and for arm64 (if on 16.6-16.7RC/17.0b1-17.0 use normal TrollStore, otherwise use the following): [Jailbreak](https://ios.cfw.guide/get-started/)+[TrollStore Lite (search for it in Sileo/Zebra once jailbroken)](https://havoc.app/package/trollstorelite?srsltid=AfmBOorVtTrW_VvOq42bb8zsG4CeTtGi3VmoEmaAnFgiTEnWqeqfdLZs) | iOS/iPadOS | arm64✅,arm64e✅ |No| ✅ |No|No|
-
-# What is "JIT" ?
-JIT means "Just-In-Time Compilation", it makes emulators (which support JIT) run better/run at all or has other use cases in tools such as [LiveContainer](https://github.com/LiveContainer/LiveContainer) to launch iOS apps faster (by not having to sign them first with SideStore) which are installed into it. 
-
-Read more [here](https://en.wikipedia.org/wiki/Just-in-time_compilation)
