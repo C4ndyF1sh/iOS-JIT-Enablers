@@ -22,8 +22,7 @@ A list of JIT Enablers for iOS and iPadOS.
  | ??? - 16.7.x | [JITStreamer](https://github.com/jkcoxson/JitStreamer) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌ |No|No|
  | 14.0 - 16.7.x | [AltServer](https://altstore.io) | Windows/MacOS | arm64✅,arm64e✅ |No| ❌ |No|No|
  | 14.0 - 15.7.1 / 16.0 - 16.1.2 | [DirtyJIT](https://github.com/haxi0/DirtyJIT) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌ |No|No|
- | 12.0 - 16.5(.1)/16.6b1-b4 (arm64 devices can be jailbroken even on iOS 11 and lower) | [Jailbreak (Not all Jailbreaks support JIT enabling)](https://ios.cfw.guide/get-started/) | iOS/iPadOS | arm64✅,arm64e✅ |No| ✅ |No|No|
- |↪️ 16.6 - 18.3.2 | [Jailbreak](https://ios.cfw.guide/get-started/) + [TrollStore Lite (search for it in Sileo/Zebra once jailbroken)](https://havoc.app/package/trollstorelite?srsltid=AfmBOorVtTrW_VvOq42bb8zsG4CeTtGi3VmoEmaAnFgiTEnWqeqfdLZs) | iOS/iPadOS | arm64✅,arm64e❌ |No| ✅ (you can use normal TrollStore instead if you are on 14.0b2 - 16.7RC/17.0b1 - 17.0 if you dont want to jailbreak for some reason) |No|No|
+ | 16.5(.1)/16.6b1-b4 and lower for arm64e but for arm64 even 16.6 - 18.3.2 | for arm64e: [Jailbreak](https://ios.cfw.guide/get-started/) and for arm64: [Jailbreak](https://ios.cfw.guide/get-started/)+[TrollStore Lite (search for it in Sileo/Zebra once jailbroken)](https://havoc.app/package/trollstorelite?srsltid=AfmBOorVtTrW_VvOq42bb8zsG4CeTtGi3VmoEmaAnFgiTEnWqeqfdLZs) | iOS/iPadOS | arm64✅,arm64e✅ |No| ✅ |No|No|
 | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) (SideJITServer is just a pymd3 wrapper) | MacOS/Windows/Linux | arm64✅,arm64e✅ |No| ❌ (kinda old now and has been shown to be unstable on a lot of networks (same as SideJITServer) and is a pain to use) |No|No|
 
 # What is "JIT" ?
