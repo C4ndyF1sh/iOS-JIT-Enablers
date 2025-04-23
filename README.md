@@ -6,7 +6,7 @@ A list of JIT Enablers for iOS and iPadOS.
  | Supported OS Versions | JIT Enabler | OS for JIT Enabler | Supported SoC architecture | TestFlight available | Recommended | Shortcuts to make JIT enabling faster | Dylibs to make JIT enabling faster |
  |---------|---------|--------|-------|-------|-------|------|------|
  | 18.4b1 (22E5200s) | [JankJIT](https://gist.github.com/JJTech0130/142aee0f7bda9c61a421140d17afbdeb) | Likely MacOS-only | arm64🤷‍♂️,arm64e✅ |No| 🤷‍♂ |No|No|
- | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [StikDebug](https://github.com/StephenDev0/StikJIT) | iOS/iPadOS | arm64✅,arm64e✅ |[Yes](https://testflight.apple.com/join/8rHFcgzC)|  ✅ (recommended to use with SideStore) |No|No|
+ | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [StikDebug](https://stikdebug.xyz) | iOS/iPadOS | arm64✅,arm64e✅ |[Yes](https://testflight.apple.com/join/8rHFcgzC)|  ✅ (recommended to use with SideStore) |No|No|
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [StikJIT](https://github.com/StephenDev0/StikJIT) | iOS/iPadOS | arm64✅,arm64e✅ |No|  ✅ (recommended to use with SideStore) |[Yes](https://github.com/C4ndyF1sh/iOS-JIT-Enablers/releases/tag/StikJIT-Shortcuts)|No|
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [Guide](https://sidestore.io) + [SideStore "Nightly" build (required!)](https://github.com/SideStore/SideStore/releases/tag/nightly) | iOS/iPadOS | arm64✅,arm64e✅ |No| ✅ (Recommended to use with StikDebug) |No|No|
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [JITStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌ |No|No|
