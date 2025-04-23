@@ -9,7 +9,7 @@ A list of JIT Enablers for iOS and iPadOS.
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [StikDebug/StikJIT](https://github.com/StephenDev0/StikJIT) | iOS/iPadOS | arm64✅,arm64e✅ |[Yes](https://testflight.apple.com/join/8rHFcgzC)|  ✅ (recommended to use with SideStore)
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [Guide](https://sidestore.io) + [SideStore "Nightly" build (required!)](https://github.com/SideStore/SideStore/releases/tag/nightly) | iOS/iPadOS | arm64✅,arm64e✅ |No| ✅ (Recommended to use with StikDebug)
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [JITStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌
- | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [JITStreamer-2.0](https://github.com/jawshoeadan/JITStreamer-2.0) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌
+ | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [JITStreamer-2.0](https://github.com/jawshoeadan/JITStreamer-2.0) | Windows/MacOS | arm64🤷‍♂️,arm64e✅ |No| ❌
  | 14.2 - 18.3.2 / 18.4b2 - 18.5 | [Xcode](https://apps.apple.com/de/app/xcode/id497799835?l=en-GB&mt=12) | MacOS | arm64✅,arm64e✅ |No| ❌ (Requires an active Xcode Project but doesn't need to be the same one as the app)
  | ??? - 18.3.2 / 18.4b2 - 18.5 | [Guide](https://youtu.be/1LHTr3QZVwQ?si=esiE19BqI-aV7G49) + [UTM SE](https://apps.apple.com/de/app/utm-se-retro-pc-emulator/id1564628856?l=en-GB) | iOS/iPadOS | arm64🤷‍♂️,arm64e✅ |No| ❌
  | 17.4 - 18.3.2 / 18.4b2 - 18.5 | [app** JIT](https://www.youtube.com/watch?v=xvFZjo5PgG0) | MacOS | amr64🤷‍♂️,arm64e✅ |No| ❌
