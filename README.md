@@ -2,7 +2,7 @@
 A list of JIT Enablers for iOS and iPadOS.
 -------------------------------------
 # What is "JIT" ?
-JIT means "Just-In-Time Compilation", it makes emulators (which support JIT) run better/run at all or has other use cases in tools such as [LiveContainer](https://github.com/LiveContainer/LiveContainer) to launch iOS apps faster (by not having to sign them first with SideStore) which are installed into it. 
+JIT means "Just-In-Time Compilation", it makes emulators (which support JIT) run better/run at all or has other use cases in tools such as [LiveContainer](https://github.com/LiveContainer/LiveContainer) to launch iOS apps differently (by not having to sign them first with SideStore) which are installed into it. 
 
 Read more [here](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 -------------------------------------
